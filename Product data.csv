@@ -1,0 +1,401 @@
+Product,Product code,Product category,Product category code,Standard price,Variable cost, Gross margin ,Year
+Jescie,252,5,Music and entertainment,$183.00,$54.90, 128 ,2010
+Lavinia,254,7,Men's wear,$241.00,$120.50, 121 ,2010
+Indira,142,2,Cosmetics,$89.00,$26.70, 62 ,2010
+Allen,227,2,Cosmetics,$63.00,$25.20, 38 ,2010
+Emily,225,4,Home wears,$79.00,$31.60, 47 ,2010
+Amena,126,3,Electronics,$175.00,$70.00, 105 ,2010
+Quemby,124,2,Cosmetics,$99.00,$49.50, 50 ,2010
+Hop,230,10,Women's wear,$168.00,$100.80, 67 ,2010
+Lane,186,4,Home wears,$178.00,$106.80, 71 ,2010
+Francis,274,2,Cosmetics,$287.00,$114.80, 172 ,2010
+Alec,296,2,Cosmetics,$206.00,$103.00, 103 ,2010
+Azalia,181,6,Jewellery,$115.00,$34.50, 81 ,2010
+Daquan,235,5,Music and entertainment,$85.00,$25.50, 60 ,2010
+Justin,183,6,Jewellery,$169.00,$101.40, 68 ,2010
+Melvin,245,6,Jewellery,$223.00,$133.80, 89 ,2010
+Jana,138,2,Cosmetics,$65.00,$32.50, 33 ,2010
+Brian,203,7,Men's wear,$51.00,$35.70, 15 ,2010
+Wing,276,3,Electronics,$132.00,$52.80, 79 ,2010
+Adria,106,5,Music and entertainment,$241.00,$168.70, 72 ,2010
+Nell,253,5,Music and entertainment,$316.00,$94.80, 221 ,2010
+Malachi,101,3,Electronics,$167.00,$50.10, 117 ,2010
+Thomas,214,3,Electronics,$126.00,$37.80, 88 ,2010
+Dorothy,155,2,Cosmetics,$253.00,$126.50, 127 ,2010
+Elmo,292,1,Shoes,$202.00,$141.40, 61 ,2010
+Abbot,255,6,Jewellery,$224.00,$89.60, 134 ,2010
+Shannon,239,8,Toys,$149.00,$89.40, 60 ,2010
+Kathleen,260,1,Shoes,$125.00,$50.00, 75 ,2010
+Breanna,173,8,Toys,$313.00,$93.90, 219 ,2010
+Leroy,110,8,Toys,$75.00,$30.00, 45 ,2010
+Nita,141,8,Toys,$213.00,$127.80, 85 ,2010
+Leilani,148,5,Music and entertainment,$127.00,$76.20, 51 ,2010
+Fiona,113,1,Shoes,$128.00,$89.60, 38 ,2010
+Reece,217,10,Women's wear,$321.00,$160.50, 161 ,2010
+Anthony,103,5,Music and entertainment,$204.00,$81.60, 122 ,2010
+Chava,149,7,Men's wear,$137.00,$82.20, 55 ,2010
+Deanna,187,4,Home wears,$246.00,$172.20, 74 ,2010
+Mara,133,8,Toys,$194.00,$77.60, 116 ,2010
+Conan,189,1,Shoes,$108.00,$43.20, 65 ,2010
+Kaye,100,8,Toys,$323.00,$129.20, 194 ,2010
+Caleb,259,1,Shoes,$336.00,$168.00, 168 ,2010
+Felix,268,10,Women's wear,$92.00,$46.00, 46 ,2010
+Tanya,196,6,Jewellery,$125.00,$62.50, 63 ,2010
+Ezekiel,280,4,Home wears,$224.00,$134.40, 90 ,2010
+Alisa,167,5,Music and entertainment,$35.00,$21.00, 14 ,2010
+Dahlia,107,6,Jewellery,$73.00,$36.50, 37 ,2010
+Elijah,145,9,Gifts,$281.00,$196.70, 84 ,2010
+Winifred,170,9,Gifts,$223.00,$133.80, 89 ,2010
+Paloma,180,9,Gifts,$98.00,$39.20, 59 ,2010
+Keefe,169,3,Electronics,$152.00,$91.20, 61 ,2010
+Theodore,281,9,Gifts,$128.00,$64.00, 64 ,2010
+Kareem,267,2,Cosmetics,$221.00,$154.70, 66 ,2010
+Leslie,251,3,Electronics,$160.00,$64.00, 96 ,2010
+Oprah,299,2,Cosmetics,$155.00,$77.50, 78 ,2010
+Naomi,288,10,Women's wear,$103.00,$51.50, 52 ,2010
+Riley,250,7,Men's wear,$295.00,$147.50, 148 ,2010
+Adam,271,2,Cosmetics,$184.00,$55.20, 129 ,2010
+Fleur,197,4,Home wears,$34.00,$23.80, 10 ,2010
+Donna,131,4,Home wears,$312.00,$93.60, 218 ,2010
+Lawrence,118,10,Women's wear,$218.00,$65.40, 153 ,2010
+Amanda,284,5,Music and entertainment,$46.00,$13.80, 32 ,2010
+Shafira,207,3,Electronics,$314.00,$219.80, 94 ,2010
+Briar,243,2,Cosmetics,$216.00,$64.80, 151 ,2010
+Illana,179,1,Shoes,$320.00,$192.00, 128 ,2010
+Deborah,122,7,Men's wear,$257.00,$77.10, 180 ,2010
+Jena,220,8,Toys,$170.00,$68.00, 102 ,2010
+Ahmed,125,5,Music and entertainment,$132.00,$66.00, 66 ,2010
+Talon,119,4,Home wears,$251.00,$75.30, 176 ,2010
+Sawyer,108,7,Men's wear,$48.00,$19.20, 29 ,2010
+Dacey,166,9,Gifts,$231.00,$92.40, 139 ,2010
+Denton,286,5,Music and entertainment,$213.00,$85.20, 128 ,2010
+Aphrodite,104,4,Home wears,$140.00,$70.00, 70 ,2010
+Thane,216,2,Cosmetics,$312.00,$156.00, 156 ,2010
+Sandra,283,10,Women's wear,$127.00,$88.90, 38 ,2010
+Oscar,157,3,Electronics,$217.00,$65.10, 152 ,2010
+Steven,193,4,Home wears,$81.00,$24.30, 57 ,2010
+Desirae,117,4,Home wears,$314.00,$219.80, 94 ,2010
+Omar,246,7,Men's wear,$27.00,$13.50, 14 ,2010
+Victoria,215,7,Men's wear,$188.00,$131.60, 56 ,2010
+Moses,184,1,Shoes,$298.00,$208.60, 89 ,2010
+Marvin,105,1,Shoes,$347.00,$173.50, 174 ,2010
+Britanney,204,5,Music and entertainment,$154.00,$61.60, 92 ,2010
+Noel,218,5,Music and entertainment,$212.00,$106.00, 106 ,2010
+Isabella,114,4,Home wears,$111.00,$66.60, 44 ,2010
+TaShya,158,5,Music and entertainment,$305.00,$91.50, 214 ,2010
+Sophia,223,1,Shoes,$101.00,$30.30, 71 ,2010
+Kieran,139,4,Home wears,$73.00,$36.50, 37 ,2010
+MacKenzie,143,10,Women's wear,$171.00,$68.40, 103 ,2010
+Brianna,159,10,Women's wear,$101.00,$60.60, 40 ,2010
+Dante,206,6,Jewellery,$246.00,$123.00, 123 ,2010
+Joseph,165,5,Music and entertainment,$232.00,$92.80, 139 ,2010
+Chelsea,191,5,Music and entertainment,$252.00,$75.60, 176 ,2010
+Dante,261,5,Music and entertainment,$263.00,$131.50, 132 ,2010
+Carlos,228,1,Shoes,$103.00,$41.20, 62 ,2010
+Lucian,172,6,Jewellery,$278.00,$166.80, 111 ,2010
+Charde,285,8,Toys,$127.00,$38.10, 89 ,2010
+Leandra,140,10,Women's wear,$343.00,$205.80, 137 ,2010
+Chanda,210,5,Music and entertainment,$85.00,$51.00, 34 ,2010
+Noel,222,4,Home wears,$71.00,$35.50, 36 ,2010
+Sonia,102,9,Gifts,$202.00,$141.40, 61 ,2010
+Aphrodite,146,1,Shoes,$238.00,$119.00, 119 ,2010
+Jescie,252,5,Music and entertainment, 201.30 , 61.76 , 140 ,2011
+Lavinia,254,7,Men's wear, 284.82 , 150.63 , 134 ,2011
+Indira,142,2,Cosmetics, 111.25 , 26.70 , 85 ,2011
+Allen,227,2,Cosmetics, 63.00 , 29.78 , 33 ,2011
+Emily,225,4,Home wears, 96.56 , 39.50 , 57 ,2011
+Amena,126,3,Electronics, 175.00 , 87.50 , 88 ,2011
+Quemby,124,2,Cosmetics, 99.00 , 49.50 , 50 ,2011
+Hop,230,10,Women's wear, 201.60 , 109.96 , 92 ,2011
+Lane,186,4,Home wears, 200.25 , 128.16 , 72 ,2011
+Francis,274,2,Cosmetics, 287.00 , 129.15 , 158 ,2011
+Alec,296,2,Cosmetics, 247.20 , 125.89 , 121 ,2011
+Azalia,181,6,Jewellery, 138.00 , 34.50 , 104 ,2011
+Daquan,235,5,Music and entertainment, 85.00 , 28.33 , 57 ,2011
+Justin,183,6,Jewellery, 184.36 , 119.84 , 65 ,2011
+Melvin,245,6,Jewellery, 223.00 , 133.80 , 89 ,2011
+Jana,138,2,Cosmetics, 78.00 , 36.56 , 41 ,2011
+Brian,203,7,Men's wear, 51.00 , 39.67 , 11 ,2011
+Wing,276,3,Electronics, 148.50 , 64.53 , 84 ,2011
+Adria,106,5,Music and entertainment, 241.00 , 202.44 , 39 ,2011
+Nell,253,5,Music and entertainment, 355.50 , 94.80 , 261 ,2011
+Malachi,101,3,Electronics, 204.11 , 59.21 , 145 ,2011
+Thomas,214,3,Electronics, 157.50 , 37.80 , 120 ,2011
+Dorothy,155,2,Cosmetics, 278.30 , 154.61 , 124 ,2011
+Elmo,292,1,Shoes, 224.44 , 141.40 , 83 ,2011
+Abbot,255,6,Jewellery, 252.00 , 89.60 , 162 ,2011
+Shannon,239,8,Toys, 163.90 , 89.40 , 75 ,2011
+Kathleen,260,1,Shoes, 156.25 , 60.00 , 96 ,2011
+Breanna,173,8,Toys, 341.45 , 102.44 , 239 ,2011
+Leroy,110,8,Toys, 91.67 , 33.00 , 59 ,2011
+Nita,141,8,Toys, 213.00 , 139.42 , 74 ,2011
+Leilani,148,5,Music and entertainment, 139.70 , 76.20 , 64 ,2011
+Fiona,113,1,Shoes, 128.00 , 97.75 , 30 ,2011
+Reece,217,10,Women's wear, 321.00 , 189.68 , 131 ,2011
+Anthony,103,5,Music and entertainment, 204.00 , 81.60 , 122 ,2011
+Chava,149,7,Men's wear, 137.00 , 100.47 , 37 ,2011
+Deanna,187,4,Home wears, 273.33 , 193.73 , 80 ,2011
+Mara,133,8,Toys, 215.56 , 84.65 , 131 ,2011
+Conan,189,1,Shoes, 127.64 , 51.05 , 77 ,2011
+Kaye,100,8,Toys, 323.00 , 129.20 , 194 ,2011
+Caleb,259,1,Shoes, 369.60 , 184.80 , 185 ,2011
+Felix,268,10,Women's wear, 110.40 , 51.11 , 59 ,2011
+Tanya,196,6,Jewellery, 125.00 , 73.86 , 51 ,2011
+Ezekiel,280,4,Home wears, 264.73 , 134.40 , 130 ,2011
+Alisa,167,5,Music and entertainment, 38.50 , 25.20 , 13 ,2011
+Dahlia,107,6,Jewellery, 73.00 , 36.50 , 37 ,2011
+Elijah,145,9,Gifts, 343.44 , 232.46 , 111 ,2011
+Winifred,170,9,Gifts, 223.00 , 160.56 , 62 ,2011
+Paloma,180,9,Gifts, 122.50 , 39.20 , 83 ,2011
+Keefe,169,3,Electronics, 152.00 , 91.20 , 61 ,2011
+Theodore,281,9,Gifts, 160.00 , 71.11 , 89 ,2011
+Kareem,267,2,Cosmetics, 221.00 , 193.38 , 28 ,2011
+Leslie,251,3,Electronics, 160.00 , 64.00 , 96 ,2011
+Oprah,299,2,Cosmetics, 189.44 , 84.55 , 105 ,2011
+Naomi,288,10,Women's wear, 121.73 , 56.65 , 65 ,2011
+Riley,250,7,Men's wear, 295.00 , 147.50 , 148 ,2011
+Adam,271,2,Cosmetics, 200.73 , 62.10 , 139 ,2011
+Fleur,197,4,Home wears, 40.18 , 23.80 , 16 ,2011
+Donna,131,4,Home wears, 390.00 , 93.60 , 296 ,2011
+Lawrence,118,10,Women's wear, 266.44 , 65.40 , 201 ,2011
+Amanda,284,5,Music and entertainment, 54.36 , 16.56 , 38 ,2011
+Shafira,207,3,Electronics, 345.40 , 268.64 , 77 ,2011
+Briar,243,2,Cosmetics, 243.00 , 79.20 , 164 ,2011
+Illana,179,1,Shoes, 355.56 , 211.20 , 144 ,2011
+Deborah,122,7,Men's wear, 289.13 , 91.12 , 198 ,2011
+Jena,220,8,Toys, 191.25 , 83.11 , 108 ,2011
+Ahmed,125,5,Music and entertainment, 132.00 , 74.25 , 58 ,2011
+Talon,119,4,Home wears, 273.82 , 82.15 , 192 ,2011
+Sawyer,108,7,Men's wear, 58.67 , 21.12 , 38 ,2011
+Dacey,166,9,Gifts, 288.75 , 92.40 , 196 ,2011
+Denton,286,5,Music and entertainment, 234.30 , 106.50 , 128 ,2011
+Aphrodite,104,4,Home wears, 152.73 , 77.00 , 76 ,2011
+Thane,216,2,Cosmetics, 312.00 , 156.00 , 156 ,2011
+Sandra,283,10,Women's wear, 127.00 , 97.79 , 29 ,2011
+Oscar,157,3,Electronics, 265.22 , 76.94 , 188 ,2011
+Steven,193,4,Home wears, 91.13 , 29.70 , 61 ,2011
+Desirae,117,4,Home wears, 314.00 , 244.22 , 70 ,2011
+Omar,246,7,Men's wear, 33.75 , 15.19 , 19 ,2011
+Victoria,215,7,Men's wear, 188.00 , 146.22 , 42 ,2011
+Moses,184,1,Shoes, 335.25 , 229.46 , 106 ,2011
+Marvin,105,1,Shoes, 433.75 , 189.27 , 244 ,2011
+Britanney,204,5,Music and entertainment, 154.00 , 67.20 , 87 ,2011
+Noel,218,5,Music and entertainment, 250.55 , 132.50 , 118 ,2011
+Isabella,114,4,Home wears, 111.00 , 74.00 , 37 ,2011
+TaShya,158,5,Music and entertainment, 360.45 , 91.50 , 269 ,2011
+Sophia,223,1,Shoes, 126.25 , 33.33 , 93 ,2011
+Kieran,139,4,Home wears, 81.11 , 39.82 , 41 ,2011
+MacKenzie,143,10,Women's wear, 186.55 , 74.62 , 112 ,2011
+Brianna,159,10,Women's wear, 126.25 , 66.66 , 60 ,2011
+Dante,206,6,Jewellery, 268.36 , 150.33 , 118 ,2011
+Joseph,165,5,Music and entertainment, 232.00 , 92.80 , 139 ,2011
+Chelsea,191,5,Music and entertainment, 252.00 , 89.35 , 163 ,2011
+Dante,261,5,Music and entertainment, 315.60 , 146.11 , 169 ,2011
+Carlos,228,1,Shoes, 128.75 , 41.20 , 88 ,2011
+Lucian,172,6,Jewellery, 303.27 , 166.80 , 136 ,2011
+Charde,285,8,Toys, 138.55 , 42.33 , 96 ,2011
+Leandra,140,10,Women's wear, 385.88 , 243.22 , 143 ,2011
+Chanda,210,5,Music and entertainment, 92.73 , 62.33 , 30 ,2011
+Noel,222,4,Home wears, 78.10 , 39.44 , 39 ,2011
+Sonia,102,9,Gifts, 246.89 , 172.82 , 74 ,2011
+Aphrodite,146,1,Shoes, 264.44 , 133.88 , 131 ,2011
+Jescie,252,5,Music and entertainment, 201.30 , 69.48 , 132 ,2012
+Lavinia,254,7,Men's wear, 313.30 , 180.75 , 133 ,2012
+Indira,142,2,Cosmetics, 111.25 , 26.70 , 85 ,2012
+Allen,227,2,Cosmetics, 68.73 , 37.23 , 32 ,2012
+Emily,225,4,Home wears, 96.56 , 43.89 , 53 ,2012
+Amena,126,3,Electronics, 175.00 , 103.41 , 72 ,2012
+Quemby,124,2,Cosmetics, 110.00 , 61.88 , 48 ,2012
+Hop,230,10,Women's wear, 201.60 , 109.96 , 92 ,2012
+Lane,186,4,Home wears, 225.28 , 139.81 , 85 ,2012
+Francis,274,2,Cosmetics, 339.18 , 143.50 , 196 ,2012
+Alec,296,2,Cosmetics, 247.20 , 137.33 , 110 ,2012
+Azalia,181,6,Jewellery, 138.00 , 41.40 , 97 ,2012
+Daquan,235,5,Music and entertainment, 85.00 , 30.91 , 54 ,2012
+Justin,183,6,Jewellery, 225.33 , 119.84 , 105 ,2012
+Melvin,245,6,Jewellery, 263.55 , 158.13 , 105 ,2012
+Jana,138,2,Cosmetics, 95.33 , 36.56 , 59 ,2012
+Brian,203,7,Men's wear, 61.20 , 46.88 , 14 ,2012
+Wing,276,3,Electronics, 175.50 , 70.99 , 105 ,2012
+Adria,106,5,Music and entertainment, 267.78 , 227.75 , 40 ,2012
+Nell,253,5,Music and entertainment, 434.50 , 94.80 , 340 ,2012
+Malachi,101,3,Electronics, 244.93 , 69.97 , 175 ,2012
+Thomas,214,3,Electronics, 157.50 , 42.00 , 116 ,2012
+Dorothy,155,2,Cosmetics, 303.60 , 170.07 , 134 ,2012
+Elmo,292,1,Shoes, 252.50 , 172.82 , 80 ,2012
+Abbot,255,6,Jewellery, 252.00 , 98.56 , 153 ,2012
+Shannon,239,8,Toys, 184.39 , 89.40 , 95 ,2012
+Kathleen,260,1,Shoes, 170.45 , 75.00 , 95 ,2012
+Breanna,173,8,Toys, 403.54 , 125.20 , 278 ,2012
+Leroy,110,8,Toys, 108.33 , 39.60 , 69 ,2012
+Nita,141,8,Toys, 232.36 , 152.09 , 80 ,2012
+Leilani,148,5,Music and entertainment, 157.16 , 76.20 , 81 ,2012
+Fiona,113,1,Shoes, 128.00 , 97.75 , 30 ,2012
+Reece,217,10,Women's wear, 321.00 , 210.76 , 110 ,2012
+Anthony,103,5,Music and entertainment, 249.33 , 99.73 , 150 ,2012
+Chava,149,7,Men's wear, 161.91 , 118.73 , 43 ,2012
+Deanna,187,4,Home wears, 328.00 , 228.95 , 99 ,2012
+Mara,133,8,Toys, 215.56 , 100.05 , 116 ,2012
+Conan,189,1,Shoes, 156.00 , 51.05 , 105 ,2012
+Kaye,100,8,Toys, 352.36 , 161.50 , 191 ,2012
+Caleb,259,1,Shoes, 406.56 , 184.80 , 222 ,2012
+Felix,268,10,Women's wear, 110.40 , 60.40 , 50 ,2012
+Tanya,196,6,Jewellery, 125.00 , 82.07 , 43 ,2012
+Ezekiel,280,4,Home wears, 317.67 , 151.20 , 166 ,2012
+Alisa,167,5,Music and entertainment, 43.31 , 30.80 , 13 ,2012
+Dahlia,107,6,Jewellery, 86.27 , 44.61 , 42 ,2012
+Elijah,145,9,Gifts, 429.31 , 253.60 , 176 ,2012
+Winifred,170,9,Gifts, 263.55 , 160.56 , 103 ,2012
+Paloma,180,9,Gifts, 122.50 , 47.91 , 75 ,2012
+Keefe,169,3,Electronics, 167.20 , 114.00 , 53 ,2012
+Theodore,281,9,Gifts, 200.00 , 88.89 , 111 ,2012
+Kareem,267,2,Cosmetics, 241.09 , 193.38 , 48 ,2012
+Leslie,251,3,Electronics, 177.78 , 78.22 , 100 ,2012
+Oprah,299,2,Cosmetics, 189.44 , 95.11 , 94 ,2012
+Naomi,288,10,Women's wear, 146.07 , 67.98 , 78 ,2012
+Riley,250,7,Men's wear, 327.78 , 162.25 , 166 ,2012
+Adam,271,2,Cosmetics, 250.91 , 62.10 , 189 ,2012
+Fleur,197,4,Home wears, 40.18 , 29.75 , 10 ,2012
+Donna,131,4,Home wears, 438.75 , 114.40 , 324 ,2012
+Lawrence,118,10,Women's wear, 299.75 , 77.29 , 222 ,2012
+Amanda,284,5,Music and entertainment, 59.80 , 16.56 , 43 ,2012
+Shafira,207,3,Electronics, 422.16 , 317.49 , 105 ,2012
+Briar,243,2,Cosmetics, 303.75 , 79.20 , 225 ,2012
+Illana,179,1,Shoes, 387.88 , 258.13 , 130 ,2012
+Deborah,122,7,Men's wear, 346.95 , 111.37 , 236 ,2012
+Jena,220,8,Toys, 210.38 , 93.50 , 117 ,2012
+Ahmed,125,5,Music and entertainment, 148.50 , 74.25 , 74 ,2012
+Talon,119,4,Home wears, 298.71 , 98.57 , 200 ,2012
+Sawyer,108,7,Men's wear, 66.00 , 21.12 , 45 ,2012
+Dacey,166,9,Gifts, 320.83 , 92.40 , 228 ,2012
+Denton,286,5,Music and entertainment, 234.30 , 106.50 , 128 ,2012
+Aphrodite,104,4,Home wears, 186.67 , 77.00 , 110 ,2012
+Thane,216,2,Cosmetics, 381.33 , 156.00 , 225 ,2012
+Sandra,283,10,Women's wear, 127.00 , 106.68 , 20 ,2012
+Oscar,157,3,Electronics, 318.27 , 92.32 , 226 ,2012
+Steven,193,4,Home wears, 101.25 , 32.40 , 69 ,2012
+Desirae,117,4,Home wears, 383.78 , 298.49 , 85 ,2012
+Omar,246,7,Men's wear, 41.25 , 15.19 , 26 ,2012
+Victoria,215,7,Men's wear, 222.18 , 175.47 , 47 ,2012
+Moses,184,1,Shoes, 372.50 , 229.46 , 143 ,2012
+Marvin,105,1,Shoes, 481.94 , 210.30 , 272 ,2012
+Britanney,204,5,Music and entertainment, 173.25 , 80.64 , 93 ,2012
+Noel,218,5,Music and entertainment, 306.22 , 132.50 , 174 ,2012
+Isabella,114,4,Home wears, 111.00 , 88.80 , 22 ,2012
+TaShya,158,5,Music and entertainment, 405.51 , 102.94 , 303 ,2012
+Sophia,223,1,Shoes, 126.25 , 40.74 , 86 ,2012
+Kieran,139,4,Home wears, 97.33 , 47.78 , 50 ,2012
+MacKenzie,143,10,Women's wear, 205.20 , 91.20 , 114 ,2012
+Brianna,159,10,Women's wear, 126.25 , 78.78 , 47 ,2012
+Dante,206,6,Jewellery, 295.20 , 187.92 , 107 ,2012
+Joseph,165,5,Music and entertainment, 290.00 , 113.42 , 177 ,2012
+Chelsea,191,5,Music and entertainment, 252.00 , 109.20 , 143 ,2012
+Dante,261,5,Music and entertainment, 315.60 , 172.68 , 143 ,2012
+Carlos,228,1,Shoes, 144.84 , 41.20 , 104 ,2012
+Lucian,172,6,Jewellery, 303.27 , 166.80 , 136 ,2012
+Charde,285,8,Toys, 153.94 , 42.33 , 112 ,2012
+Leandra,140,10,Women's wear, 420.95 , 243.22 , 178 ,2012
+Chanda,210,5,Music and entertainment, 115.91 , 77.92 , 38 ,2012
+Noel,222,4,Home wears, 85.91 , 46.62 , 39 ,2012
+Sonia,102,9,Gifts, 291.78 , 207.39 , 84 ,2012
+Aphrodite,146,1,Shoes, 330.56 , 133.88 , 197 ,2012
+Jescie,252,5,Music and entertainment, 226.46 , 69.48 , 157 ,2013
+Lavinia,254,7,Men's wear, 370.26 , 180.75 , 190 ,2013
+Indira,142,2,Cosmetics, 123.61 , 33.38 , 90 ,2013
+Allen,227,2,Cosmetics, 77.32 , 37.23 , 40 ,2013
+Emily,225,4,Home wears, 107.28 , 54.86 , 52 ,2013
+Amena,126,3,Electronics, 213.89 , 103.41 , 110 ,2013
+Quemby,124,2,Cosmetics, 121.00 , 74.25 , 47 ,2013
+Hop,230,10,Women's wear, 219.93 , 109.96 , 110 ,2013
+Lane,186,4,Home wears, 247.81 , 152.52 , 95 ,2013
+Francis,274,2,Cosmetics, 373.10 , 143.50 , 230 ,2013
+Alec,296,2,Cosmetics, 271.92 , 151.07 , 121 ,2013
+Azalia,181,6,Jewellery, 138.00 , 45.16 , 93 ,2013
+Daquan,235,5,Music and entertainment, 92.73 , 37.78 , 55 ,2013
+Justin,183,6,Jewellery, 253.50 , 133.15 , 120 ,2013
+Melvin,245,6,Jewellery, 263.55 , 173.94 , 90 ,2013
+Jana,138,2,Cosmetics, 112.67 , 44.69 , 68 ,2013
+Brian,203,7,Men's wear, 66.76 , 46.88 , 20 ,2013
+Wing,276,3,Electronics, 214.50 , 88.73 , 126 ,2013
+Adria,106,5,Music and entertainment, 334.72 , 227.75 , 107 ,2013
+Nell,253,5,Music and entertainment, 474.00 , 94.80 , 379 ,2013
+Malachi,101,3,Electronics, 272.15 , 82.70 , 189 ,2013
+Thomas,214,3,Electronics, 186.14 , 49.64 , 137 ,2013
+Dorothy,155,2,Cosmetics, 333.96 , 188.97 , 145 ,2013
+Elmo,292,1,Shoes, 315.63 , 204.24 , 111 ,2013
+Abbot,255,6,Jewellery, 315.00 , 109.51 , 205 ,2013
+Shannon,239,8,Toys, 202.83 , 99.33 , 103 ,2013
+Kathleen,260,1,Shoes, 213.07 , 90.00 , 123 ,2013
+Breanna,173,8,Toys, 504.42 , 150.24 , 354 ,2013
+Leroy,110,8,Toys, 130.00 , 47.52 , 82 ,2013
+Nita,141,8,Toys, 232.36 , 165.92 , 66 ,2013
+Leilani,148,5,Music and entertainment, 157.16 , 83.82 , 73 ,2013
+Fiona,113,1,Shoes, 153.60 , 106.63 , 47 ,2013
+Reece,217,10,Women's wear, 392.33 , 257.59 , 135 ,2013
+Anthony,103,5,Music and entertainment, 277.04 , 99.73 , 177 ,2013
+Chava,149,7,Men's wear, 197.89 , 148.42 , 49 ,2013
+Deanna,187,4,Home wears, 410.00 , 249.76 , 160 ,2013
+Mara,133,8,Toys, 237.11 , 100.05 , 137 ,2013
+Conan,189,1,Shoes, 156.00 , 51.05 , 105 ,2013
+Kaye,100,8,Toys, 391.52 , 181.69 , 210 ,2013
+Caleb,259,1,Shoes, 406.56 , 184.80 , 222 ,2013
+Felix,268,10,Women's wear, 130.47 , 67.95 , 63 ,2013
+Tanya,196,6,Jewellery, 156.25 , 82.07 , 74 ,2013
+Ezekiel,280,4,Home wears, 388.27 , 151.20 , 237 ,2013
+Alisa,167,5,Music and entertainment, 51.19 , 34.65 , 17 ,2013
+Dahlia,107,6,Jewellery, 86.27 , 54.52 , 32 ,2013
+Elijah,145,9,Gifts, 429.31 , 253.60 , 176 ,2013
+Winifred,170,9,Gifts, 292.83 , 200.70 , 92 ,2013
+Paloma,180,9,Gifts, 153.13 , 52.70 , 100 ,2013
+Keefe,169,3,Electronics, 200.64 , 142.50 , 58 ,2013
+Theodore,281,9,Gifts, 222.22 , 88.89 , 133 ,2013
+Kareem,267,2,Cosmetics, 271.23 , 217.55 , 54 ,2013
+Leslie,251,3,Electronics, 222.22 , 78.22 , 144 ,2013
+Oprah,299,2,Cosmetics, 236.81 , 95.11 , 142 ,2013
+Naomi,288,10,Women's wear, 164.33 , 67.98 , 96 ,2013
+Riley,250,7,Men's wear, 357.58 , 177.00 , 181 ,2013
+Adam,271,2,Cosmetics, 250.91 , 62.10 , 189 ,2013
+Fleur,197,4,Home wears, 40.18 , 29.75 , 10 ,2013
+Donna,131,4,Home wears, 438.75 , 143.00 , 296 ,2013
+Lawrence,118,10,Women's wear, 299.75 , 86.95 , 213 ,2013
+Amanda,284,5,Music and entertainment, 74.75 , 16.56 , 58 ,2013
+Shafira,207,3,Electronics, 515.97 , 388.04 , 128 ,2013
+Briar,243,2,Cosmetics, 303.75 , 87.12 , 217 ,2013
+Illana,179,1,Shoes, 387.88 , 281.60 , 106 ,2013
+Deborah,122,7,Men's wear, 385.50 , 111.37 , 274 ,2013
+Jena,220,8,Toys, 210.38 , 103.89 , 106 ,2013
+Ahmed,125,5,Music and entertainment, 148.50 , 74.25 , 74 ,2013
+Talon,119,4,Home wears, 358.45 , 98.57 , 260 ,2013
+Sawyer,108,7,Men's wear, 66.00 , 21.12 , 45 ,2013
+Dacey,166,9,Gifts, 320.83 , 110.88 , 210 ,2013
+Denton,286,5,Music and entertainment, 255.60 , 118.33 , 137 ,2013
+Aphrodite,104,4,Home wears, 205.33 , 84.00 , 121 ,2013
+Thane,216,2,Cosmetics, 450.67 , 184.36 , 266 ,2013
+Sandra,283,10,Women's wear, 138.55 , 130.39 , 8 ,2013
+Oscar,157,3,Electronics, 381.92 , 103.86 , 278 ,2013
+Steven,193,4,Home wears, 101.25 , 38.88 , 62 ,2013
+Desirae,117,4,Home wears, 460.53 , 335.81 , 125 ,2013
+Omar,246,7,Men's wear, 45.38 , 15.19 , 30 ,2013
+Victoria,215,7,Men's wear, 266.62 , 214.46 , 52 ,2013
+Moses,184,1,Shoes, 440.23 , 229.46 , 211 ,2013
+Marvin,105,1,Shoes, 481.94 , 210.30 , 272 ,2013
+Britanney,204,5,Music and entertainment, 216.56 , 89.60 , 127 ,2013
+Noel,218,5,Music and entertainment, 306.22 , 165.63 , 141 ,2013
+Isabella,114,4,Home wears, 133.20 , 104.95 , 28 ,2013
+TaShya,158,5,Music and entertainment, 405.51 , 125.81 , 280 ,2013
+Sophia,223,1,Shoes, 140.28 , 45.83 , 94 ,2013
+Kieran,139,4,Home wears, 109.50 , 59.73 , 50 ,2013
+MacKenzie,143,10,Women's wear, 242.51 , 91.20 , 151 ,2013
+Brianna,159,10,Women's wear, 142.03 , 94.54 , 47 ,2013
+Dante,206,6,Jewellery, 328.00 , 222.08 , 106 ,2013
+Joseph,165,5,Music and entertainment, 322.22 , 113.42 , 209 ,2013
+Chelsea,191,5,Music and entertainment, 308.00 , 121.33 , 187 ,2013
+Dante,261,5,Music and entertainment, 315.60 , 207.21 , 108 ,2013
+Carlos,228,1,Shoes, 144.84 , 49.44 , 95 ,2013
+Lucian,172,6,Jewellery, 341.18 , 185.33 , 156 ,2013
+Charde,285,8,Toys, 153.94 , 50.03 , 104 ,2013
+Leandra,140,10,Women's wear, 459.22 , 270.24 , 189 ,2013
+Chanda,210,5,Music and entertainment, 115.91 , 77.92 , 38 ,2013
+Noel,222,4,Home wears, 94.50 , 51.28 , 43 ,2013
+Sonia,102,9,Gifts, 328.25 , 226.24 , 102 ,2013
+Aphrodite,146,1,Shoes, 330.56 , 150.61 , 180 ,2013
